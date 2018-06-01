@@ -1,0 +1,14 @@
+xyz\cavalheiro\filmes\config\SpringRootConfig.class
+xyz\cavalheiro\filmes\domain\DetalheErro.class
+xyz\cavalheiro\filmes\domain\DetalheErro$Builder.class
+xyz\cavalheiro\filmes\domain\Filme.class
+xyz\cavalheiro\filmes\exception\IdNaoValidoServiceException.class
+xyz\cavalheiro\filmes\config\SpringJpaConfig.class
+xyz\cavalheiro\filmes\dao\FilmeDao.class
+xyz\cavalheiro\filmes\exception\NaoExisteDaoException.class
+xyz\cavalheiro\filmes\resource\rest\FilmeRestController.class
+xyz\cavalheiro\filmes\service\FilmeServiceImpl.class
+xyz\cavalheiro\filmes\resource\rest\exception\RestExceptionHandler.class
+xyz\cavalheiro\filmes\service\FilmeService.class
+xyz\cavalheiro\filmes\config\SpringInitConfig.class
+xyz\cavalheiro\filmes\dao\FilmeDaoImpl.class
